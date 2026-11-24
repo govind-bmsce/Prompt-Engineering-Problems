@@ -165,22 +165,22 @@ You are an intelligent flight booking assistant. Your task is to extract flight 
 
 ## Display the extracted information in the following format:
 
-Passenger Name:
-Departure City:
-Destination City:
-Travel Date:
-Number of Passengers:
-Travel Class:
+1. Passenger Name:
+2. Departure City:
+3. Destination City:
+4. Travel Date:
+5. Number of Passengers:
+6. Travel Class:
 After displaying the fields, ask questions to collect the missing information.
 
 ## Expected Output for the given input:
 
-1. Passenger Name:           Rahul
-2. Departure City:           Bengaluru
-3. Destination City:         Delhi
-4. Travel Date:              Missing
-5. Number of Passengers:     Missing
-6. Travel Class:             Missing
+1. Passenger Name:               Rahul
+2. Departure City:             Bengaluru
+3. Destination City:             Delhi
+4. Travel Date:                 Missing
+5. Number of Passengers:        Missing
+6. Travel Class:                Missing
 
 
 # 6. Scholarship Eligibility Assessment
