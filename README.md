@@ -175,12 +175,12 @@ After displaying the fields, ask questions to collect the missing information.
 
 ## Expected Output for the given input:
 
-Passenger Name:           Rahul
-Departure City:           Bengaluru
-Destination City:         Delhi
-Travel Date:              Missing
-Number of Passengers:     Missing
-Travel Class:             Missing
+1. Passenger Name:           Rahul
+2. Departure City:           Bengaluru
+3. Destination City:         Delhi
+4. Travel Date:              Missing
+5. Number of Passengers:     Missing
+6. Travel Class:             Missing
 
 
 # 6. Scholarship Eligibility Assessment
